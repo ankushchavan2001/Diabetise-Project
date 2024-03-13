@@ -20,6 +20,6 @@ Deployment: The final model was deployed into a web application using Streamlit,
 
 This project showcases the end-to-end process of developing a predictive model for diabetes onset prediction, from data preprocessing and model training to evaluation and deployment. It serves as a valuable resource for understanding and implementing machine learning techniques in healthcare analytics.
 
-
+LINK OF STREAMLIT WEBAPP - http://localhost:8501/
 
 
